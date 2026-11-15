@@ -1,0 +1,206 @@
+[
+  {
+    "id": "G01",
+    "title": "Ben Thanh Market",
+    "text": "Ben Thanh Market is a central market in Ho Chi Minh City. Visitors can browse souvenir shops, local products, clothing stalls, and food counters.",
+    "source": "https://vietnam.travel/things-to-do/7-must-see-attractions-hcmc/",
+    "category": "market",
+    "tags": [
+      "souvenirs",
+      "shopping",
+      "food",
+      "central"
+    ]
+  },
+  {
+    "id": "G02",
+    "title": "Nguyen Hue Walking Street",
+    "text": "Nguyen Hue is a pedestrian boulevard linking the City Hall area with Bach Dang Wharf. It is a popular place for an evening walk.",
+    "source": "https://vietnam.travel/things-to-do/7-must-see-attractions-hcmc/",
+    "category": "walking street",
+    "tags": [
+      "pedestrian",
+      "walk",
+      "city hall",
+      "Bach Dang Wharf"
+    ]
+  },
+  {
+    "id": "G03",
+    "title": "Saigon Central Post Office",
+    "text": "Saigon Central Post Office is a historic architectural landmark in the central area of Ho Chi Minh City, close to Notre Dame Cathedral.",
+    "source": "https://vietnam.travel/place-to-go/southeastern-vietnam/ho-chi-minh-city/",
+    "category": "landmark",
+    "tags": [
+      "architecture",
+      "historic",
+      "post office"
+    ]
+  },
+  {
+    "id": "G04",
+    "title": "Notre Dame Cathedral",
+    "text": "Notre Dame Cathedral is a well-known historic cathedral in central Ho Chi Minh City. It stands near Saigon Central Post Office.",
+    "source": "https://vietnam.travel/place-to-go/southeastern-vietnam/ho-chi-minh-city/",
+    "category": "landmark",
+    "tags": [
+      "cathedral",
+      "historic",
+      "architecture"
+    ]
+  },
+  {
+    "id": "G05",
+    "title": "Saigon Opera House",
+    "text": "Saigon Opera House is a historic performing-arts landmark near Dong Khoi Street in the city center.",
+    "source": "https://vietnam.travel/place-to-go/southeastern-vietnam/ho-chi-minh-city/",
+    "category": "theater",
+    "tags": [
+      "performance",
+      "theater",
+      "architecture"
+    ]
+  },
+  {
+    "id": "G06",
+    "title": "Cho Lon Chinatown",
+    "text": "Cho Lon is Ho Chi Minh City’s Chinese quarter. Visitors can explore local streets, traditional markets, and temples.",
+    "source": "https://vietnam.travel/place-to-go/southeastern-vietnam/ho-chi-minh-city/",
+    "category": "district",
+    "tags": [
+      "chinatown",
+      "culture",
+      "market",
+      "temple"
+    ]
+  },
+  {
+    "id": "G07",
+    "title": "Binh Tay Market",
+    "text": "Binh Tay Market is a large trading market in the Cho Lon area. It is especially associated with wholesale commerce.",
+    "source": "https://vietnam.travel/place-to-go/southeastern-vietnam/ho-chi-minh-city/",
+    "category": "market",
+    "tags": [
+      "Cho Lon",
+      "wholesale",
+      "shopping"
+    ]
+  },
+  {
+    "id": "G08",
+    "title": "Thien Hau Pagoda",
+    "text": "Thien Hau Pagoda is a temple in Cho Lon that honors the sea goddess Thien Hau. It is a destination for visitors interested in religious and cultural heritage.",
+    "source": "https://vietnam.travel/place-to-go/southeastern-vietnam/ho-chi-minh-city/",
+    "category": "temple",
+    "tags": [
+      "Cho Lon",
+      "heritage",
+      "religion"
+    ]
+  },
+  {
+    "id": "G09",
+    "title": "Jade Emperor Pagoda",
+    "text": "Jade Emperor Pagoda is a religious landmark that visitors can include while exploring Ho Chi Minh City.",
+    "source": "https://vietnam.travel/place-to-go/southeastern-vietnam/ho-chi-minh-city/",
+    "category": "temple",
+    "tags": [
+      "religious",
+      "historic",
+      "pagoda"
+    ]
+  },
+  {
+    "id": "G10",
+    "title": "Cu Chi Tunnels",
+    "text": "The Cu Chi Tunnels are an underground tunnel network northwest of central Ho Chi Minh City. They are connected to the history of the Vietnam War.",
+    "source": "https://vietnam.travel/things-to-do/7-must-see-attractions-hcmc/",
+    "category": "historic site",
+    "tags": [
+      "history",
+      "tunnels",
+      "war"
+    ]
+  },
+  {
+    "id": "G11",
+    "title": "Com Tam",
+    "text": "Com tam is a popular Ho Chi Minh City dish made with broken rice. It is commonly served with savory accompaniments.",
+    "source": "https://vietnam.travel/place-to-go/southeastern-vietnam/ho-chi-minh-city/",
+    "category": "food",
+    "tags": [
+      "broken rice",
+      "local cuisine"
+    ]
+  },
+  {
+    "id": "G12",
+    "title": "Banh Xeo",
+    "text": "Banh xeo is a crispy Vietnamese savory pancake associated with southern-style street food.",
+    "source": "https://vietnam.travel/place-to-go/southeastern-vietnam/ho-chi-minh-city/",
+    "category": "food",
+    "tags": [
+      "pancake",
+      "street food"
+    ]
+  },
+  {
+    "id": "G13",
+    "title": "Banh Mi",
+    "text": "Banh mi is a Vietnamese filled bread sandwich and is widely enjoyed as a street-food option in Ho Chi Minh City.",
+    "source": "https://vietnam.travel/place-to-go/southeastern-vietnam/ho-chi-minh-city/",
+    "category": "food",
+    "tags": [
+      "sandwich",
+      "bread",
+      "street food"
+    ]
+  },
+  {
+    "id": "G14",
+    "title": "Tan Son Nhat International Airport",
+    "text": "Tan Son Nhat International Airport serves Ho Chi Minh City and is about seven kilometers from the city center.",
+    "source": "https://vietnam.travel/place-to-go/southeastern-vietnam/ho-chi-minh-city/",
+    "category": "transport",
+    "tags": [
+      "airport",
+      "flight",
+      "arrival"
+    ]
+  },
+  {
+    "id": "G15",
+    "title": "Airport Transfer Options",
+    "text": "For the trip between Tan Son Nhat Airport and the city center, travelers can use a taxi, a ride-hailing service, or a city bus.",
+    "source": "https://vietnam.travel/place-to-go/southeastern-vietnam/ho-chi-minh-city/",
+    "category": "transport",
+    "tags": [
+      "taxi",
+      "bus",
+      "ride-hailing"
+    ]
+  },
+  {
+    "id": "G16",
+    "title": "Weather in Ho Chi Minh City",
+    "text": "Ho Chi Minh City is generally warm throughout the year. The rainy season usually runs from around May to November.",
+    "source": "https://vietnam.travel/place-to-go/southeastern-vietnam/ho-chi-minh-city/",
+    "category": "weather",
+    "tags": [
+      "rainy season",
+      "climate"
+    ]
+  },
+  {
+    "id": "G17",
+    "title": "42 Nguyen Hue Building",
+    "text": "The building at 42 Nguyen Hue is known for small shops and other businesses occupying an older city building.",
+    "source": "https://vietnam.travel/place-to-go/southeastern-vietnam/ho-chi-minh-city/",
+    "category": "shopping",
+    "tags": [
+      "Nguyen Hue",
+      "shops",
+      "building"
+    ]
+  }
+]
