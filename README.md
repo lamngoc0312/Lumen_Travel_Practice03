@@ -1,3 +1,6 @@
+## Link Repository:
+[https://github.com/lamngoc0312/Lumen_Travel_Practice03]
+
 # Lumen Travel Assistant
 
 A guide-grounded travel chatbot for Ho Chi Minh City, built with Streamlit, Firebase Authentication, and a local Ollama RAG pipeline.
