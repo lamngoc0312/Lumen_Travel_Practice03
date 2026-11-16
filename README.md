@@ -239,9 +239,11 @@ The retriever uses `k=3` to provide enough supporting context while keeping the 
 - Chat history exists only for the current Streamlit session and is intentionally cleared at sign-out.
 - Authentication protects the Streamlit chat interface; this project does not implement additional protected backend resources.
 
-## AI tools used
+## AI Tools Used
 
-ChatGPT (Codex) was used to compare the implementation with the assignment specification, improve input and data validation, add offline tests, diagnose Firebase and Ollama integration errors, and organize the documentation. The final implementation, guide content, configuration, tests, and demonstration were reviewed and run by the student.
+ChatGPT was used as a supporting tool during development, mainly for debugging assistance, code review, and documentation refinement. Student was actively involved in defining the system requirements, understanding and evaluating the implementation, configuring Firebase and Ollama, preparing the travel guide, conducting tests, and verifying the application's behavior.
+
+All AI-assisted suggestions were reviewed and validated by the student before being incorporated into the final project.
 
 ## Demonstration video
 
